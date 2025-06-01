@@ -25,7 +25,7 @@ const Home = () => {
           </h2>
           <div className="w-20 h-1 bg-blue-600 dark:bg-blue-400 mx-auto lg:mx-0 mb-6"></div>
           <p className="text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-8">
-            I'm a first-year student at NST, pursuing B.Tech in Computer Science and Artificial Intelligence.
+            I am a first-year B.Tech student at Newton School of Technology with a strong foundation in Python, HTML, CSS, JavaScript, and React. I am passionate about front-end development and have hands-on experience in UI/UX design, creating user-friendly and responsive interfaces. With a strong drive for continuous learning and innovation, I aim to build impactful tech solutions while constantly improving my software development and product design expertise.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             <Link
